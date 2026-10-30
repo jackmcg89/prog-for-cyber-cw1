@@ -5,7 +5,7 @@
 Name: Jack McGee
 Banner ID: B01655631
 GitHub Username: jackmcg89
-Campus: [Your Campus]
+Campus: Uws Lanarkshire
 
 ## Repository Overview
 
